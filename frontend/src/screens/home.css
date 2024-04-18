@@ -1,0 +1,15 @@
+.custom-input {
+  height: 60px;
+}
+
+.custom-button {
+  height: 60px;
+}
+
+.chat-page {
+  height: 100vh;
+}
+
+img.selected {
+  border: 4px solid green;
+}
